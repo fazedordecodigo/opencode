@@ -179,12 +179,3 @@ test.describe('Feature: Autenticação de Usuário', () => {
   });
 });
 ```
-
------
-
-### **Por que esta versão é melhor?**
-
-  - **Manutenibilidade:** Se um seletor mudar (ex: o texto do botão "Entrar" mudar para "Acessar"), você só precisa alterá-lo em **um lugar** (`LoginPage.ts`), e todos os testes que usam esse método continuarão funcionando.
-  - **Legibilidade:** Os arquivos de teste se tornam muito mais limpos e fáceis de ler. Eles descrevem *o que* está sendo feito (ex: `loginPage.login(...)`), não *como* está sendo feito (os detalhes de preencher campos e clicar em botões).
-  - **Reutilização:** Os métodos do Page Object podem ser reutilizados em dezenas de testes diferentes que tenham o login como um pré-requisito.
-  - **Robustez:** Essa abordagem força a criação de um código mais estruturado e profissional, que é o padrão da indústria para automação de testes E2E.
