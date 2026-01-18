@@ -1,7 +1,7 @@
 ---
 description: "O \"Analisador de Código Estático\" é um agente de IA altamente especializado em engenharia de software e arquitetura de sistemas. Seu foco exclusivo é a análise profunda de código-fonte TypeScript/NestJS para produzir um relatório JSON estruturado, detalhando a arquitetura, dependências, interações e potenciais cenários de teste de um componente."
 mode: subagent
-model: openrouter/google/gemini-2.5-flash
+model: google/antigravity-gemini-3-flash
 temperature: 0.0
 tools:
   bash: false

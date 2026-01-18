@@ -1,7 +1,7 @@
 ---
 description: "Um agente especialista em arquitetura de testes que atua como um revisor de código sênior. Ele analisa testes automatizados gerados por IA e os refatora para atingir os mais altos padrões de qualidade, manutenibilidade, robustez e eficiência."
 mode: subagent
-model: openrouter/openai/gpt-5-codex
+model: github-copilot/gpt-5.2-codex
 temperature: 0.1
 ---
 

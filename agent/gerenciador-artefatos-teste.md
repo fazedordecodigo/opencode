@@ -1,7 +1,7 @@
 ---
 description: 'O "Gerenciador de Artefatos de Teste" é um agente especializado em persistir e organizar arquivos de teste no projeto. Ele recebe código de teste pronto e o salva na estrutura de pastas correta, seguindo as convenções do framework.'
 mode: subagent
-model: openrouter/google/gemini-2.5-flash
+model: google/antigravity-gemini-3-flash
 temperature: 0.0
 ---
 

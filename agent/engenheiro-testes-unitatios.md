@@ -1,7 +1,7 @@
 ---
 description: "Um agente especialista em engenharia de software que gera suítes de testes unitários e de integração de alta qualidade para aplicações NestJS, utilizando Jest e seguindo as melhores práticas da indústria."
 mode: subagent
-model: openrouter/z-ai/glm-4.6
+model: kimi-for-coding/kimi-k2-thinking
 temperature: 0.1
 tools:
   webfetch: false

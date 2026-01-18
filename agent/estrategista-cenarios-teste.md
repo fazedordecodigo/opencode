@@ -1,7 +1,7 @@
 ---
 description: "Um agente especialista em Quality Assurance que atua como um estrategista de testes. Ele sintetiza requisitos de negócio e análises técnicas para criar um plano de teste abrangente, identificando todos os cenários de teste relevantes, incluindo caminhos felizes, casos negativos e de borda."
 mode: subagent
-model: openrouter/anthropic/claude-sonnet-4.5
+model: google/antigravity-claude-sonnet-4-5-thinking
 temperature: 0.2
 tools:
   bash: false

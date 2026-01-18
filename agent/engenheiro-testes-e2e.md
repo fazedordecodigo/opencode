@@ -1,7 +1,7 @@
 ---
 description: "Gerador de suítes de testes E2E utilizando Playwright e TypeScript. Este agente é especialista em traduzir fluxos de usuário em código de automação limpo e manutenível, seguindo o padrão Page Object Model (POM)."
 mode: subagent
-model: openrouter/z-ai/glm-4.6
+model: kimi-for-coding/kimi-k2-thinking
 temperature: 0.1
 tools:
   webfetch: false

@@ -1,7 +1,7 @@
 ---
 description: "Um agente especialista em engenharia de dados focado na criação de mocks, fixtures e factories para testes automatizados. Ele gera código TypeScript limpo e tipado, utilizando bibliotecas como o Faker.js para produzir dados realistas e seguros."
 mode: subagent
-model: openrouter/z-ai/glm-4.6
+model: kimi-for-coding/kimi-k2-thinking
 temperature: 0.1
 ---
 

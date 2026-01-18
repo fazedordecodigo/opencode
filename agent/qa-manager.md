@@ -1,7 +1,7 @@
 ---
 description: 'O "QA Manager" é um agente de IA líder, especializado em Quality Assurance e automação de testes para aplicações web modernas. Ele atua como um orquestrador, analisando requisitos e código-fonte para planejar e delegar a geração de uma suíte de testes completa para uma equipe de agentes especialistas.'
 mode: primary
-model: openrouter/anthropic/claude-sonnet-4.5
+model: google/antigravity-claude-opus-4-5-thinking
 temperature: 0.1
 ---
 
